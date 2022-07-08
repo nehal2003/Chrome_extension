@@ -1,0 +1,29 @@
+#color
+{
+    cursor: pointer;
+    border-radius: 6px;
+
+}
+
+
+
+.btn:hover
+
+{
+    background-color: aqua;
+    color: royalblue;
+    border: 3px solid royalblue;
+
+}
+
+.btn
+{
+    background-color:navy;
+    padding: 6px;
+    border: 4px solid lavender;
+    
+    border-radius: 6px; 
+    color:lavender;
+  font-size:15px;
+   font-style:normal;
+}
